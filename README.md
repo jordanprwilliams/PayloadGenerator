@@ -42,7 +42,7 @@ Utilizing this tool involves significant security considerations:
     ```
 3. Make the script executable:
     ```bash
-    chmod +x payload_generator.sh
+    chmod +x givemeshells.sh
     ```
 
 ## Usage
@@ -50,8 +50,7 @@ Utilizing this tool involves significant security considerations:
 Run the Payload Generator by executing the script:
 
 ```bash
-./payload_generator.sh
-
+./givemeshells.sh
 
 Follow the on-screen prompts to enter the necessary information for payload generation.
 
